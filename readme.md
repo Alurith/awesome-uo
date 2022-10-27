@@ -1,30 +1,67 @@
-# Awesome List Template
+<div align="center">
 
-This is an [awesome-list](https://github.com/sindresorhus/awesome) template with
-CI to run [awesome-lint](https://github.com/sindresorhus/awesome-lint) and
-[awesome_bot](https://github.com/dkhamsing/awesome_bot) to be compliant from the
-beginning.
+<!-- title -->
 
-## Usage
+<!--lint ignore no-dead-urls-->
 
-1. [generate a template of this repo](https://github.com/jthegedus/awesome-list-template/generate)
-2. run a find & replace of `YOUR_GITHUB_USER/YOUR_REPO` with your details
-3. edit `readme-template.md`
-   - update the h1 title
-   - update the subtitle
-   - update the description
-   - add img src, make it link to the site of the thing in the image.
-4. choose a CI template
-   - GitHub Action: move config folder from `repo-root/ci/.github/` to
-     `repo-root/.github`
-   - Circle CI: move config folder from `repo-root/ci/.circleci/*` to
-     `repo-root/.circleci/*`
-   - GitLab CI: move config file from `repo-root/ci/.gitlab-ci.yml` to the
-     `repo-root/.gitlab-ci.yml`
-5. run a find & replace `readme-template.md` to `readme.md` in the CI you chose
-5. delete this file
-6. rename `readme-template.md` file to `readme.md`
+# Awesome Ultima Online [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/Alurith/awesome-uo/actions/workflows/lint.yaml/badge.svg)](https://github.com/Alurith/awesome-uo/actions/workflows/lint.yaml)
+
+<!-- subtitle -->
+
+A curated list of awesome Ultima Online projects!
+
+<!-- description -->
+
+Ultima Online (UO) is a fantasy MMORPG developed by [Origin Systems](https://en.wikipedia.org/wiki/Origin_Systems).
+
+</div>
+
+<!-- TOC -->
+
+## Contents
+
+- [Official Links](#official-links)
+- [Server Emulators](#server-emulators)
+- [Unofficial Clients](#unofficial-clients)
+- [Tools](#tools)
+
+<!-- CONTENT -->
+
+## Official Links
+
+- [Ultima Online](https://uo.com/) - Official Website.
+
+## Server Emulators
+
+- [ServUO](https://github.com/ServUO/ServUO) - An Ultima Online server emulator written in C# .NET.
+- [ModernUO](https://github.com/modernuo/ModernUO) - Ultima Online Server Emulator for the modern era.
+- [UltimaPHP](https://github.com/UltimaPHP/UltimaPHP) - A modern Ultima Online server written in PHP.
+- [JustUO](https://github.com/JustUO/JustUO) - Advanced Ultima Online server emulation software.
+- [XRunUO](https://github.com/xrunuo/xrunuo) - XRunUO is a server emulator, forked from the RunUO project, written in C# and targeting.
+- [UOX3](https://github.com/UOX3DevTeam/UOX3) - Ultima Offline eXperiment 3 - the original open source Ultima Online server emulator - v0.99.5a.
+- [POL](https://github.com/polserver/polserver) - PenUltima Online (POL) is a MMO server, compatible with most Ultima Online clients.
+
+## Unofficial Clients
+
+- [ClassicUO](https://github.com/ClassicUO/ClassicUO) - ClassicUO - an open source implementation of the Ultima Online Classic Client.
+- [UltimaXNA](https://github.com/ZaneDubya/UltimaXNA) - Ultima Online client in C#/XNA.
+- [OrionUO](https://github.com/Hotride/OrionUO) - Orion - Ultima Online graphic client, using OpenGL for rendering.
+- [CrossUO](https://github.com/crossuo/crossuo) - CrossUO - Open Source Ultima Online Client.
+- [MobileUO](https://github.com/VoxelBoy/MobileUO) - MobileUO - the first mobile client for Ultima Online.
+- [Iris2](https://github.com/kblaschke/Iris2) - An Open-Source 3D Ultima Online (tm) Client.
+
+## Tools
+
+- [Razor](https://github.com/markdwags/Razor) - Razor is a free tool designed to help with simple tasks while playing Ultima Online.
+- [GumpStudio](https://github.com/CorexUO/GumpStudio) - GumpStudio a Ultima Online gump designer.
+- [UOStudio](https://github.com/deccer/UOStudio) - Complete rewrite of the CentrED/CentrED Ultima Online Editor.
+
+<!-- END CONTENT -->
 
 ## Contributing
 
-Contributions welcome!
+[Contributions of any kind welcome, just follow the guidelines](contributing.md)!
+
+### Contributors
+
+[Thanks goes to these contributors](https://github.com/Alurith/awesome-uo/graphs/contributors)!
