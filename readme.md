@@ -41,6 +41,7 @@ Ultima Online (UO) is a fantasy MMORPG developed by [Origin Systems](https://en.
 - [UOX3](https://github.com/UOX3DevTeam/UOX3) - Ultima Offline eXperiment 3 - the original open source Ultima Online server emulator - v0.99.5a.
 - [POL](https://github.com/polserver/polserver) - PenUltima Online (POL) is a MMO server, compatible with most Ultima Online clients.
 - [Sphere](https://github.com/Sphereserver/Source) - Game server for Ultima Online.
+- [CorexUO](https://github.com/CorexUO/CorexUO) - Ultima online server emulator.
 
 ## Unofficial Clients
 
