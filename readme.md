@@ -55,6 +55,7 @@ Ultima Online (UO) is a fantasy MMORPG developed by [Origin Systems](https://en.
 - [Razor](https://github.com/markdwags/Razor) - Razor is a free tool designed to help with simple tasks while playing Ultima Online.
 - [GumpStudio](https://github.com/CorexUO/GumpStudio) - GumpStudio a Ultima Online gump designer.
 - [UOStudio](https://github.com/deccer/UOStudio) - Complete rewrite of the CentrED/CentrED Ultima Online Editor.
+- [Razor Enhanced](https://github.com/RazorEnhanced/RazorEnhanced) - Razor Enhanced, an advanced fork of Razor, the 2D .NET assistant for Ultima Online.
 
 <!-- END CONTENT -->
 
