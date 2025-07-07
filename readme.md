@@ -46,7 +46,7 @@ Ultima Online (UO) is a fantasy MMORPG developed by [Origin Systems](https://en.
 - [POL](https://github.com/polserver/polserver) - PenUltima Online (POL) is a MMO server, compatible with most Ultima Online clients.
 - [Sphere](https://github.com/Sphereserver/Source) - Game server for Ultima Online.
 - [CorexUO](https://github.com/CorexUO/CorexUO) - Ultima online server emulator.
-- [Moongate](https://github.com/Moongate-server/Moongate) - A modern, high-performance C# server engine for Ultima Online, featuring modular architecture with advanced scripting.
+- [Moongate](https://github.com/Moongate-community/Moongate) - A modern, high-performance C# server engine for Ultima Online, featuring modular architecture with advanced scripting.
 
 ## Unofficial Clients
 
