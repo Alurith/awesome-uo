@@ -15,9 +15,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: "checkout repo"
-        uses: actions/checkout@v2
-      - name: asdf_install
-        uses: asdf-vm/actions/install@v1
+        uses: actions/checkout@v7
+        with:
+          fetch-depth: 0
+      - name: "setup node"
+        uses: actions/setup-node@v7
+        with:
+          node-version-file: .tool-versions
       - name: "linting: ${{ matrix.files }}"
         run: npx -y awesome-lint ${{ matrix.files }}
   awesome-bot:
@@ -29,7 +33,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: "checkout repo"
-        uses: actions/checkout@v2.0.0
+        uses: actions/checkout@v7
         with:
           fetch-depth: 0
       - name: "setup ruby"

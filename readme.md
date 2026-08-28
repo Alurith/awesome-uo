@@ -56,9 +56,7 @@ Ultima Online (UO) is a fantasy MMORPG developed by [Origin Systems](https://en.
 
 - [Razor](https://github.com/markdwags/Razor) - A free tool designed to help with simple tasks while playing Ultima Online.
 - [GumpStudio](https://github.com/CorexUO/GumpStudio) - An Ultima Online gump designer.
-- [UOStudio](https://github.com/deccer/UOStudio) - Complete rewrite of the CentrED/CentrED Ultima Online Editor.
 - [Razor Enhanced](https://github.com/RazorEnhanced/RazorEnhanced) - An advanced fork of Razor, the 2D .NET assistant for Ultima Online.
-- [UOMap](https://github.com/punt1959/UOMap) - Interatiive/Command file way to edit or get information for an Ultima Online map.
 - [UORegionEditor](https://github.com/uoblood/UORegionEditor) - Visual region editor for custom UO maps.
 - [ClassicAssist](https://github.com/Reetus/ClassicAssist) - Assistant for ClassicUO with UOSteam-like interface and macro syntax.
 - [UOMapWeaver](https://github.com/UOCursedSouls/UOMapWeaver) - A cross-platform tool for Ultima Online map files.
